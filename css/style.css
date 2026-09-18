@@ -156,18 +156,19 @@ h2 {
   gap: 30px;
 }
 
+/* APENAS A COR DA FONTE DO MENU */
 .nav-menu a {
-  color: #000000; /* Letras em Preto */
+  color: #FFFFFF !important; /* Cor branca para o texto do menu */
   text-decoration: none;
   font-size: 0.9rem;
-  font-weight: 600; /* Destaque para melhor leitura sobre o fundo bordô */
-  transition: var(--transition);
+  font-weight: 500;
+  transition: color 0.3s ease;
 }
 
+/* EFEITO AO PASSAR O RATO */
 .nav-menu a:hover {
-  color: var(--color-gold-primary); /* Efeito dourado ao passar o mouse */
+  color: #D4AF37 !important; /* Transição para dourado */
 }
-
 /* HERO */
 .hero {
   background-color: var(--color-dark-bg);
