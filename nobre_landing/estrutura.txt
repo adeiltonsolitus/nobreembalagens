@@ -1,0 +1,18 @@
+PASTA DA LANDING/
+│
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   ├── logo.png
+│   ├── caixa-romanee.png
+│   ├── embalagem-1.jpg
+│   ├── embalagem-2.jpg
+│   ├── card-1.jpg
+│   ├── card-2.jpg
+│   ├── card-3.jpg
+│   ├── card-4.jpg
+│   ├── card-5.jpg
+│   └── card-6.jpg
+└── index.html
